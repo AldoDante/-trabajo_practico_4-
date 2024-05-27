@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+ .header-custom {
+ 	background-color: white;
+    color: black; 
+    padding: 20px 0;
+ }
+ 
+ .header-custom img {
+ 	max-width: 300px;
+}
+
+.header-custom h1, .header-custom p {
+	margin: 0;
+    padding-left: 20px;
+}
